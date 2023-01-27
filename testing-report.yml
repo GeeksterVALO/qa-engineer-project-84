@@ -69,4 +69,4 @@
   
 - summary: |
     Корзина хранится в сессии браузера
-  status: fail
+  status: pass
